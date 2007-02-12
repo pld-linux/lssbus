@@ -1,5 +1,5 @@
 Summary:	Simple utility to list sbus/ebus devices
-Summary(pl):	Proste narzêdzie do wypisywania urz±dzeñ sbus/ebus
+Summary(pl.UTF-8):   Proste narzÄ™dzie do wypisywania urzÄ…dzeÅ„ sbus/ebus
 Name:		lssbus
 Version:	0.1
 Release:	3
@@ -14,9 +14,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 lssbus is a simple Linux/SPARC utility to list sbus/ebus devices.
 
-%description -l pl
-lssbus to proste narzêdzie dla architektury Linux/SPARC wypisuj±ce
-urz±dzenia sbus/ebus.
+%description -l pl.UTF-8
+lssbus to proste narzÄ™dzie dla architektury Linux/SPARC wypisujÄ…ce
+urzÄ…dzenia sbus/ebus.
 
 %prep
 %setup -q
