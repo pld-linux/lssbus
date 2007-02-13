@@ -1,5 +1,5 @@
 Summary:	Simple utility to list sbus/ebus devices
-Summary(pl.UTF-8):   Proste narzędzie do wypisywania urządzeń sbus/ebus
+Summary(pl.UTF-8):	Proste narzędzie do wypisywania urządzeń sbus/ebus
 Name:		lssbus
 Version:	0.1
 Release:	3
